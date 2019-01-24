@@ -1,3 +1,3 @@
 // write your code below!
 
-console.logl("Helllo world!");
+console.log("Helllo world!");
